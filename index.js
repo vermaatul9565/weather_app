@@ -26,7 +26,6 @@ async function getData (city) {
     return data;
   }
 
-
 function displayData(data){
     console.log("data fetched.....", data);
     let city = document.querySelector(".location .city");
