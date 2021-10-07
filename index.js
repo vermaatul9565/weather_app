@@ -29,7 +29,6 @@ async function getData (city) {
 
 function displayData(data){
     console.log("data fetched.....", data);
-
     let city = document.querySelector(".location .city");
     city.innerText = `${data.name}, ${data.sys.country}`;
 

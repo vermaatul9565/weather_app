@@ -31,7 +31,7 @@
     padding: 10px 15px;
     border: none;
     outline: none;
-    background-color: rgba(226, 221, 221, 0.74);
+    background-color: rgba(255, 254, 254, 0.74);
     border-radius: 16px 0px 16px 0px;
     border-bottom: 3px solid #df6c00;
     
@@ -42,7 +42,7 @@
   }
   
   header input:focus {
-    background-color: rgba(255, 255, 255, 0.52);
+    background-color: rgba(255, 255, 255, 0.657);
   }
   
   main {
@@ -64,6 +64,7 @@
   .location .date {
     color: #FFF;
     font-size: 16px;
+    margin: 40px;
   }
   
   .current .temp {
