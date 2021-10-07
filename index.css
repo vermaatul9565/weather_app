@@ -31,11 +31,11 @@
     padding: 10px 15px;
     border: none;
     outline: none;
-    background-color: rgba(226, 221, 221, 0.74));
+    background-color: rgba(226, 221, 221, 0.74);
     border-radius: 16px 0px 16px 0px;
     border-bottom: 3px solid #df6c00;
     
-    color: #000000;
+    color: #000000; 
     font-size: 20px;
     font-weight: 300;
     transition: 0.2s ease-out;
