@@ -1,5 +1,6 @@
 # weather_app
-Fetch weather data and render to the page.
+Fetch weather data of cities and render to the page.<br>
+Try app : https://vermaatul9565.github.io/weather_app/
 
 # Tech Stack:
 1. HTML
